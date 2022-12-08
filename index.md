@@ -10,7 +10,7 @@ My GitHub page is http://github.com/Wocked61.
 
 * Lab 8
 
- Lab 8, part 3 was one of my favorites because I got to make an ASCII art animation. The animations made me happy when I was the art move.
+    Lab 8, part 3 was one of my favorites because I got to make an ASCII art animation. The animations made me happy when I was the art move.
 
 * Lab 9
 
